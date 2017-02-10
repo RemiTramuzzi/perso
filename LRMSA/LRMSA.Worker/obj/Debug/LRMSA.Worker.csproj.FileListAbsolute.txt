@@ -1,0 +1,6 @@
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\bin\Debug\LRMSA.Worker.exe.config
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\bin\Debug\LRMSA.Worker.exe
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\bin\Debug\LRMSA.Worker.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\obj\Debug\LRMSA.Worker.exe
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\obj\Debug\LRMSA.Worker.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.Worker\obj\Debug\LRMSA.Worker.csprojResolveAssemblyReference.cache

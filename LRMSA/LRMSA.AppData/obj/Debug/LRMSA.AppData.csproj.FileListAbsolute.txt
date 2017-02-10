@@ -1,0 +1,12 @@
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\LRMSA.AppData.dll.config
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\LRMSA.AppData.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\LRMSA.AppData.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\EntityFramework.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\EntityFramework.xml
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\obj\Debug\LRMSA.AppData.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\obj\Debug\LRMSA.AppData.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\obj\Debug\LRMSA.AppData.csprojResolveAssemblyReference.cache
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\obj\Debug\LRMSA.AppData.Migrations.InitialCreate.resources
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.AppData\obj\Debug\LRMSA.AppData.csproj.GenerateResource.Cache

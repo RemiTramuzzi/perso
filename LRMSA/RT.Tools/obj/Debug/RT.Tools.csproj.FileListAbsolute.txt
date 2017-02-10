@@ -1,0 +1,5 @@
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Tools\bin\Debug\RT.Tools.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Tools\bin\Debug\RT.Tools.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Tools\obj\Debug\RT.Tools.csprojResolveAssemblyReference.cache
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Tools\obj\Debug\RT.Tools.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Tools\obj\Debug\RT.Tools.pdb

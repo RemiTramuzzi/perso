@@ -1,0 +1,5 @@
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Extensions\bin\Debug\RT.Extensions.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Extensions\bin\Debug\RT.Extensions.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Extensions\obj\Debug\RT.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Extensions\obj\Debug\RT.Extensions.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\RT.Extensions\obj\Debug\RT.Extensions.pdb

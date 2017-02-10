@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSA.Front", "LRMSA.Front\LRMSA.Front.csproj", "{E5EFF949-2CCD-4AA7-BCAF-3C5E1DC08280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSA.RiotApi", "LRMSA.RiotApi\LRMSA.RiotApi.csproj", "{C50A6226-7D7D-4A4F-B6AA-AB531BDF7AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSA.AppData", "LRMSA.AppData\LRMSA.AppData.csproj", "{0219332F-8A19-4A25-A0BA-442FD3A0388F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSA.Worker", "LRMSA.Worker\LRMSA.Worker.csproj", "{FC30974D-B565-41AE-BA72-EA5CC00638A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMSA.TestConsole", "LRMSA.TestConsole\LRMSA.TestConsole.csproj", "{E9CE8170-902D-4E5C-AA5D-58723E724C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT.Extensions", "RT.Extensions\RT.Extensions.csproj", "{1AE5EFC8-74D5-403D-8243-5F097C8D385D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT.Tools", "RT.Tools\RT.Tools.csproj", "{91D09B62-FD85-4698-93A3-C2AB068FC530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EFF949-2CCD-4AA7-BCAF-3C5E1DC08280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EFF949-2CCD-4AA7-BCAF-3C5E1DC08280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EFF949-2CCD-4AA7-BCAF-3C5E1DC08280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EFF949-2CCD-4AA7-BCAF-3C5E1DC08280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50A6226-7D7D-4A4F-B6AA-AB531BDF7AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50A6226-7D7D-4A4F-B6AA-AB531BDF7AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50A6226-7D7D-4A4F-B6AA-AB531BDF7AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50A6226-7D7D-4A4F-B6AA-AB531BDF7AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0219332F-8A19-4A25-A0BA-442FD3A0388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0219332F-8A19-4A25-A0BA-442FD3A0388F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0219332F-8A19-4A25-A0BA-442FD3A0388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0219332F-8A19-4A25-A0BA-442FD3A0388F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC30974D-B565-41AE-BA72-EA5CC00638A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC30974D-B565-41AE-BA72-EA5CC00638A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC30974D-B565-41AE-BA72-EA5CC00638A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC30974D-B565-41AE-BA72-EA5CC00638A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CE8170-902D-4E5C-AA5D-58723E724C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CE8170-902D-4E5C-AA5D-58723E724C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CE8170-902D-4E5C-AA5D-58723E724C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CE8170-902D-4E5C-AA5D-58723E724C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE5EFC8-74D5-403D-8243-5F097C8D385D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE5EFC8-74D5-403D-8243-5F097C8D385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE5EFC8-74D5-403D-8243-5F097C8D385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE5EFC8-74D5-403D-8243-5F097C8D385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D09B62-FD85-4698-93A3-C2AB068FC530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D09B62-FD85-4698-93A3-C2AB068FC530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D09B62-FD85-4698-93A3-C2AB068FC530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D09B62-FD85-4698-93A3-C2AB068FC530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\LRMSA.RiotApi.dll.config
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\LRMSA.RiotApi.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\LRMSA.RiotApi.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\EntityFramework.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\LRMSA.AppData.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\LRMSA.AppData.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\EntityFramework.xml
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\obj\Debug\LRMSA.RiotApi.csprojResolveAssemblyReference.cache
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\obj\Debug\LRMSA.RiotApi.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\obj\Debug\LRMSA.RiotApi.pdb
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\RT.Extensions.dll
+C:\Users\rtra\Documents\Visual Studio 2013\Projects\LRMSA\LRMSA.RiotApi\bin\Debug\RT.Extensions.pdb
