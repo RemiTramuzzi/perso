@@ -18,7 +18,7 @@ namespace LRMSA.RiotApi
             get { return "https://euw.api.pvp.net/api/lol/euw/v{{Version}}/{{Api}}/{{Method}}{{PathParameters}}?{{QueryParameters}}"; }
         }
 
-        private const string ApiKeyParameter = "api_key=RGAPI-95d8e141-40b9-48a3-a6d5-a03135ae1881";
+        private const string ApiKeyParameter = "api_key=toto";
 
         protected abstract string Api { get; }
         protected abstract string Version { get; }
